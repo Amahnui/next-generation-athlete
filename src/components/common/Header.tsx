@@ -93,8 +93,8 @@ const Header: React.FC<HeaderProps> = ({ className = '', dict }) => {
               <Image
                 src="/nextgen.png"
                 alt="Logo"
-                width={100}
-                height={100}
+                width={400}
+                height={400}
                 className="w-full h-full object-contain cursor-pointer transition-transform hover:scale-105"
                 priority
               />
